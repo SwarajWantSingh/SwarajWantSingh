@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swaraj Want Singh</h1>
+<h1 align="center">Hi Everyone👋</h1>
 <div align="center"> <img src="https://github.com/SwarajWantSingh/SwarajWantSingh/blob/main/Screenshot%202024-07-14%20174203.png"> </div>
 <h3 align="center">A passionate Devops and a Cloud Engineer from India. I work in Corporate IT Sector</h3>
 
