@@ -1,7 +1,7 @@
 <h1 align="center">Hi Everyone👋</h1>
 <div align="center"> <img src="https://github.com/SwarajWantSingh/SwarajWantSingh/blob/main/Screenshot%202024-07-14%20174203.png"> </div>
 <h3 align="center">A passionate Devops and a Cloud Engineer from Delhi, India. I work in the Corporate IT Sector. Open for work and collaboration</h3>
-<img align="right" alt="Coding" width="400" src= https://www.google.com/imgres?q=coding%20gifs&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d%2F68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&tbnid=uYYa30tHbsaH2M&vet=12ahUKEwjVvOTgx6aHAxXsR2wGHQU0AKEQM3oECHEQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjVvOTgx6aHAxXsR2wGHQU0AKEQM3oECHEQAA>
+<img align="right" alt="Coding" width="400" src= https://github.com/SwarajWantSingh/SwarajWantSingh/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarajwantsingh&label=Profile%20views&color=0e75b6&style=flat" alt="swarajwantsingh" /> </p>
 
