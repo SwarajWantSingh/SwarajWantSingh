@@ -1,6 +1,6 @@
 <h1 align="center">Hi Everyone👋</h1>
 <div align="center"> <img src="https://github.com/SwarajWantSingh/SwarajWantSingh/blob/main/Screenshot%202024-07-14%20174203.png"> </div>
-<h3 align="center">A passionate Devops and a Cloud Engineer from India. I work in Corporate IT Sector</h3>
+<h3 align="center">A passionate Devops and a Cloud Engineer from Delhi, India. I work in the Corporate IT Sector. Open for work and collaboration</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=swarajwantsingh&label=Profile%20views&color=0e75b6&style=flat" alt="swarajwantsingh" /> </p>
 
