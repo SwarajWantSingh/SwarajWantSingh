@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swaraj Want Singh</h1>
 <h3 align="center">A passionate Devops and a Cloud Engineer from India. I work in Corporate IT Sector</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=swarajwantsingh&label=Profile%20views&color=0e75b6&style=flat" alt="swarajwantsingh" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarajwantsingh&label=Profile%20views&color=0e75b6&style=flat" alt="swarajwantsingh" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/SwarajWantSingh](https://github.com/SwarajWantSingh)
